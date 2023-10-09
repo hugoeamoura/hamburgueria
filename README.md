@@ -1,4 +1,4 @@
-Projeto Hambueria.
+Projeto Hamburgueria.
 
 Neste projeto temos inicialmente 6 produtos, suas especificações como nome, valores, tipo e a imagem de cada um deles.
 
